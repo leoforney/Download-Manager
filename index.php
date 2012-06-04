@@ -29,7 +29,7 @@ while ($file = readdir($dir_handle))
 }
 
 /* Sorting the files alphabetically */
-sort($files_array,SORT_STRING);
+rsort($files_array,SORT_STRING);
 
 $file_downloads=array();
 
