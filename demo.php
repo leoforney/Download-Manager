@@ -34,6 +34,10 @@ sort($files_array,SORT_STRING);
 $file_downloads=array();
 
 $result = mysql_query("SELECT * FROM download_manager");
+/* Print out the mysql error if something goes wrong */
+if ($result == false){
+ echo mysql_error();
+ }
 
 if(mysql_num_rows($result))
 while($row=mysql_fetch_assoc($result))
