@@ -67,7 +67,7 @@ span.download-count{
 	text-decoration:none;
 }
 
-/* The styles below are only necessary for the demo page */
+/* Customizing these styles will alter the headings. */
 
 h1{
 	background:#f0f0f0;
@@ -90,6 +90,9 @@ h2 {
 	top:-48px;
 }
 
+h3 {
+	text-align:center;
+}
 a, a:visited {
 	color:#0196e3;
 	text-decoration:none;
