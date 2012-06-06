@@ -68,7 +68,7 @@ while($row=mysql_fetch_assoc($result))
 
 <h1>Downloads</h1>
 <h2>Check out <a href="http://www.connect-utb.com">Connect-UTB</a></h2>
-
+<h3>Welcome to the downloads page!</h3>
     
 <div id="file-manager">
 
