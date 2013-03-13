@@ -41,7 +41,7 @@ function is_bot()
 	"msnbot", "appie", "FAST", "WebBug", "Spade", "ZyBorg", "rabaz",
 	"Baiduspider", "Feedfetcher-Google", "TechnoratiSnoop", "Rankivabot",
 	"Mediapartners-Google", "Sogou web spider", "WebAlta Crawler","TweetmemeBot",
-	"Butterfly","Twitturls","Me.dium","Twiceler");
+	"Butterfly","Twitturls","Me.dium","Twiceler","Feedfetcher-Google","HouxouCrawler","cometrics-bot","OrangeSpider");
 
 	foreach($botlist as $bot)
 	{
