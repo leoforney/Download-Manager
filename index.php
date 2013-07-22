@@ -56,7 +56,7 @@ while($row=mysql_fetch_assoc($result))
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Downloads | Connect-UTB</title>
+<title>Downloads | Nivlheim</title>
 
 <link rel="stylesheet" type="text/css" href="styles.css" />
 <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.2.6.css" media="screen" />
@@ -69,8 +69,8 @@ while($row=mysql_fetch_assoc($result))
 <body>
 
 <h1>Downloads</h1>
-<h2>Check out <a href="http://www.connect-utb.com">Connect-UTB</a></h2>
-<h3>Welcome to the downloads page!</h3>
+<h2>Check out <a href="http://www.nivlheim.net/blog">Nivlheim.net</a></h2>
+<h3>Files for download</h3>
     
 <div id="file-manager">
 
